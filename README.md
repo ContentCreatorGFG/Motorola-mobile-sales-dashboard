@@ -1,5 +1,5 @@
 # Motorola-mobile-sales-dashboard
-Interactive Power BI dashboard for analyzing Motorola mobile sales performance and business insights.
+Interactive Power BI dashboard for analyzing Motorola mobile sales performance using data visualization and business intelligence.
 
 # 📱 Motorola Mobile Sales Dashboard
 
